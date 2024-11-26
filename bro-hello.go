@@ -1,5 +1,5 @@
 package golang_modules
 
 func BroHello() string {
-	return "Hello BRO.."
+	return "Upgrade: Hello BRO.."
 }
